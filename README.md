@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm a master's student at TUM Informatics, currently working on diffusion models.
 
+- I'm interested in multi-modality & text-to-image generation.
 <!--
 **farthjun/farthjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
